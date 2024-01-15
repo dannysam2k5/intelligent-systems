@@ -1,0 +1,15 @@
+rec_no,observe_day,outlook,temperature,availble_time,humidity,windy,play
+1,Sunday,sunny,29,short,85,FALSE,no
+2,Monday,,27,moderate,,TRUE,no
+3,Tuesday,overcast,28,moderate,86,FALSE,yes
+4,Wednesday,rainy,0,long,96,FALSE,yes
+5,Thursday,raimy,20,short,80,FALSE,yes
+6,Friday,rainy,18,moderate,70,TRUE,no
+7,Saturday,overcast,18,long,65,TRUE,yes
+8,Sunday,,22,,,,
+9,Monday,sunny,21,moderate,70,FALSE,yes
+10,Tuesday,rainy,24,long,80,FALSE,yes
+11,Wednesday,sunny,24,moderate,70,,yes
+12,Thursday,overcast,22,,90,TRUE,yes
+13,Fridayy,overcast,27,moderate,75,FALSE,yes
+14,Saturday,rainy,93,long,91,TRUE,no

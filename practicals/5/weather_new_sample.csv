@@ -1,0 +1,5 @@
+rec_no,observe_date,outlook,temperature,available_time,humidity,windy
+96,1/9/2020,sunny,80,short,80,False
+97,5/9/2020,overcast,68,short,79,False
+98,9/9/2020,sunny,65,moderate,70,False
+99,14/9/2020,rainy,71,long,90,True

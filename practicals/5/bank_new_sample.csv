@@ -1,0 +1,5 @@
+customer_id,age,gender,marital,education,balance,housing
+100,32,M,married,primary,1700,no
+101,41,F,single,tertiary,5880,no
+102,68,M,divorced,secondary,4200,no
+103,61,M,married,unknown,4600,yes

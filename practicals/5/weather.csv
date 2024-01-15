@@ -1,0 +1,16 @@
+rec_no,observe_date,outlook,temperature,available_time,humidity,windy,play
+1,1/9/2019,sunny,85,short,85,False,no
+2,2/9/2019,,80,Moderate,,True,no
+3,3/9/2019,overcast,300,moderate,86,False,yes
+4,4/9/2019,raimy,,long,96,False,yes
+5,5/9/2019,rainy,68,short,80,NO,yes
+6,6/9/2019,rainy,65,moderate,70,True,no
+7,7/9/2019,overcast,64,long,65,True,yes
+8,8/9/2019,,72,,,,no
+9,9/9/2019,sunny,69,moderate,70,False,yes
+10,9/9/2019,sunny,69,moderate,70,False,yes
+11,10/9/2019,rainy,75,long,80,False,yes
+12,11/9/2019,sunny,75,moderate,70,,yes
+13,12/9/2019,overcast,72,,90,True,yes
+14,13/9/2019,overcast,81,moderate,75,False,yes
+15,14/9/2019,rainy,71,long,91,True,no
